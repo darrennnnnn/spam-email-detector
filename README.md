@@ -11,4 +11,5 @@ Buat bikin modelnya, ada di modeltraining.ipynb.
 svcmodel.pkl sm vectorizer.pkl buat api buat web.
 
 ini hasilnya
-![Uploading image.png…]()
+![spam](https://github.com/darrennnnnn/spam-email-detector/assets/120356262/712a4a44-6c27-4ac2-b02c-b7c9cd72c5c2)
+![ham](https://github.com/darrennnnnn/spam-email-detector/assets/120356262/3d39e66e-c6e4-4179-b471-1b83857aa2e2)

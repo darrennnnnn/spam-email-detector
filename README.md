@@ -8,4 +8,7 @@ Data dari enron1 dan enron2 digabung dan dijadiin .csv pake toCSV.ipynb. Outputn
 
 Buat bikin modelnya, ada di modeltraining.ipynb.
 
-svcmodel.pkl sm vectorizer.pkl buat api
+svcmodel.pkl sm vectorizer.pkl buat api buat web.
+
+ini hasilnya
+![Uploading image.png…]()

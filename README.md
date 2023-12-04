@@ -8,7 +8,7 @@ Data dari enron1 dan enron2 digabung dan dijadiin .csv pake toCSV.ipynb. Outputn
 
 Buat bikin modelnya, ada di modeltraining.ipynb.
 
-svcmodel.pkl sm vectorizer.pkl buat api buat web.
+model sama vectorizer dijadiin .pkl biar bisa dipake lagi difile yg beda
 
 ini hasilnya
 ![spam](https://github.com/darrennnnnn/spam-email-detector/assets/120356262/712a4a44-6c27-4ac2-b02c-b7c9cd72c5c2)
